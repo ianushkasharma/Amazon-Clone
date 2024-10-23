@@ -5,7 +5,8 @@ This project contains a clone of the interface of Amazon's homepage, built using
 ## Table of Contents
 1. [Features](#features)
 2. [Technologies Used](#technologies-used)
-3. [License](#license)
+3. [Installation](#installation)
+4. [License](#license)
 
 ## Features
 - **Product Listings:** Basic product cards similar to the ones found on Amazon, complete with images and descriptions.
@@ -15,6 +16,11 @@ This project contains a clone of the interface of Amazon's homepage, built using
 ## Technologies Used
 - **HTML:** For structuring the layout of the clone.
 - **CSS:** To replicate Amazon's styling, including its layout and colors.
+
+## Installation
+1. Clone or download this repository:
+   ```bash
+   git clone https://github.com/ianushkasharma/amazon-clone.git
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
