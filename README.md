@@ -15,3 +15,6 @@ This project contains a clone of the interface of Amazon's homepage, built using
 ## Technologies Used
 - **HTML:** For structuring the layout of the clone.
 - **CSS:** To replicate Amazon's styling, including its layout and colors.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
